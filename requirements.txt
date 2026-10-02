@@ -13,7 +13,8 @@ shap>=0.44
 feast==0.66.0
 
 # Synthetic data
-sdv>=1.38
+sdv==1.38.3
+rdt==1.22.0
 
 # Experiment tracking / registry (DagsHub-hosted MLflow)
 mlflow>=2.10
